@@ -8,6 +8,6 @@ position:absoulte;
 body
 {
 background-color:green;
-border-radius:17px;
+border-radius:16px;
 
 }
