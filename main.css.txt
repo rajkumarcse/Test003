@@ -11,3 +11,8 @@ background-color:green;
 border-radius:16px;
 
 }
+
+div
+{
+width:100px;
+}
