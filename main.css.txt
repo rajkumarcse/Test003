@@ -7,4 +7,5 @@ position:absoulte;
 
 body
 {
+background-color:grey;
 }
